@@ -87,7 +87,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b1.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -113,7 +113,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b2.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -139,7 +139,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b3.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -165,7 +165,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b4.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -191,7 +191,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b5.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -217,7 +217,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b6.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -243,7 +243,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b7.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -269,7 +269,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b8.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -295,7 +295,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b9.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
@@ -321,7 +321,7 @@
                                                 <Insets />
                                             </VBox.margin>
                                             <image>
-                                                <Image url="@assets/Item.png" />
+                                                <Image url="@Barong/b10.png" />
                                             </image>
                                         </ImageView>
                                         <Label prefHeight="25.0" prefWidth="205.0" style="-fx-background-color: f6c1f6;" text="   Item Name">
